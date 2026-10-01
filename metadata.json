@@ -1,0 +1,6 @@
+{
+  "name": "AttendX - UHF RFID Attendance Management System",
+  "description": "Automated contactless attendance tracking for colleges, schools, corporate offices, and venues with UHF RFID portal sensors, student self-service, and transparent administrative audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
